@@ -11,7 +11,7 @@
 
 ### Project Overview
 
-This analysis highlights the relationships between income, occupation, education, and purchasing behavior, providing valuable insights for strategic planning and decision-making.
+This analysis highlights the relationships between income, occupation, education, and purchasing behavior, providing valuable insights for strategic planning and decision-making
 
 ### Data Sources
 
